@@ -1,7 +1,7 @@
 import discord
 import urllib.parse
 
-token = 'NzgyNzY1Nzg0ODQ1MjU0NjY2.X8Q9cg.GdMZ3kFtSBgn84g_EyGKSJjzSZk'
+token = 'your_token_here'
 client = discord.Client()
 
 url = "https://latex.codecogs.com/gif.latex?%5Cbg_white%20%5CLARGE%20"
